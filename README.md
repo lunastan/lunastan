@@ -27,7 +27,7 @@
 
 
 
-### Hello, I'm Jiyeon Lee!
+### Hello, I'm Newnyeong CHA!
 
 Good day!
 
