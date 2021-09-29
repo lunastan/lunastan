@@ -1,5 +1,5 @@
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=jiyeoon&&style=flat-square" align="right" />
+<img src="https://komarev.com/ghpvc/?username=newnyeong&&style=flat-square" align="right" />
 </div>  
   
 
@@ -8,7 +8,7 @@
 ## Hi There 👋  
   
 
-<a href="https://github.com/jiyeoon" target="_blank">
+<a href="https://github.com/lunastan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/jiyeon-rian-lee" target="_blank">
@@ -38,19 +38,15 @@ If you want to contact me, please leave me a message!
 <br/>
 
 ### 💫 Experience
-- **11st** - Machine learning developer *(Jan 2021 ~)*
-- **SAP** - Student Intern, Data analyst *(Jan 2020 - Jul 2020)*
-- **Google Developers** - DSC(Developer Student Clubs) Lead at South Korea *(2019-2020)*  
-  
+- **11st** - Machine learning developer *(Jan 2018 ~)*
+ 
 
 <br/>  
 
 
 ### ✨ Summary
 
-- 🔭 I’m currently working on [11st corp](https://www.11st.co.kr/) as a machine learning engineer.
 - 🌱 I'm currently learning Deep Learning, Computer Vision.
-- 📝 I regularly write articles on [my blog](https://butter-shower.tistory.com).  
   
 
 <br/>  
@@ -67,11 +63,11 @@ If you want to contact me, please leave me a message!
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jiyeoon&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=lunastan&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeoon&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunastan&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -79,17 +75,5 @@ If you want to contact me, please leave me a message!
 
 
 <!--
-**jiyeoon/jiyeoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lunastan/lunastan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ...
--->
